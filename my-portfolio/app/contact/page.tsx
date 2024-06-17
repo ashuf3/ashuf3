@@ -65,7 +65,7 @@ export default function Contact() {
               className="h-[200px]"
               placeholder="Type your message here"
           />
-          <Button size="md" className="max-w-40">
+          <Button size="sm" className="max-w-40">
             Send message
           </Button>
           </form>
